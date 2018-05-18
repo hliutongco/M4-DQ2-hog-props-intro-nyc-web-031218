@@ -1,4 +1,4 @@
-var offspring = {"offspring": [
+var offspring = [
   { "id": 1,
     "name": "JeffKatzy Katz",
     "weight": "That's private"
@@ -10,8 +10,8 @@ var offspring = {"offspring": [
   { "id": 3,
     "name": "Maxwell",
     "weight": "A Few"
-  },
-]}
+  }
+]
 
 
 export default offspring
